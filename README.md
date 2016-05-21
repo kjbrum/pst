@@ -25,7 +25,7 @@ http://kylebrumm.com/PROJECT-GITHUB-NAME/
 
 ## To-Do
 
-- [ ] List to-do items here
+- [ ] Include "Sprinkles.css" as an NPM package
 
 
 ## Changelog
