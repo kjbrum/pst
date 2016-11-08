@@ -23,11 +23,6 @@ __DELETE THIS LINE AND EVERYTHING ABOVE IT__
 http://kylebrumm.com/PROJECT-GITHUB-NAME/
 
 
-## To-Do
-
-- [ ] Include "Sprinkles.css" as an NPM package
-
-
 ## Changelog
 
 - v0.1.0
